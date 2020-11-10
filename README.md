@@ -8,3 +8,7 @@ This is an implementation of the IMCL 2019 paper [Graph Matching Networks for Le
 ## Requirements
 - torch >= 1.6.0
 - torch_geometric ([Installation guide](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html))
+
+## Instructions
+- Install the requirements
+- Import the models from models.py
