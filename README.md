@@ -12,3 +12,7 @@ This is an implementation of the IMCL 2019 paper [Graph Matching Networks for Le
 ## Instructions
 - Install the requirements
 - Import the models from models.py
+
+## References:
+- [Official Colab notebook](https://github.com/deepmind/deepmind-research/tree/master/graph_matching_networks) (using TensorFlow 1.0 and Sonnet)
+- [A repo that adaps the official notebook to python files](https://github.com/chang2000/tfGMN)
