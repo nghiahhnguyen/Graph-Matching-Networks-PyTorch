@@ -1,6 +1,6 @@
 # Graph Matching Networks
 
-This is an implementation of the ICLR 2019 paper [Graph Matching Networks for Learning the Similarity of Graph Structured Objects
+This is a reimplementation of the ICLR 2019 paper [Graph Matching Networks for Learning the Similarity of Graph Structured Objects
 ](https://arxiv.org/abs/1904.12787?source=techstories.org) by Li et al. in PyTorch.
 
 **Note: I'm not one of the original authors**.
